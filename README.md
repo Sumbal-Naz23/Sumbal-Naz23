@@ -18,21 +18,6 @@ I specialize in building modern full-stack web applications that are scalable, p
 # 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-4D96FF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-FFD93D?style=for-the-badge&logo=vite&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React%20Router-FF4C29?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-9D4EDD?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Context%20API-2EC4B6?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-6A4C93?style=for-the-badge&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF006E?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SWR-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-F72585?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zod-3F37C9?style=for-the-badge&logo=zod&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06D6A0?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-1B1B1B?style=for-the-badge&logo=radixui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-FF2E63?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-00BBF9?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -41,14 +26,14 @@ I specialize in building modern full-stack web applications that are scalable, p
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF006E?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SWR-3A86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-F72585?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3F37C9?style=for-the-badge&logo=zod&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radixui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React%20Testing%20Library-00BBF9?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
 </p>
 
 # 🌐 Socials
