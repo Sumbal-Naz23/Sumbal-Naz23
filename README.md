@@ -90,7 +90,7 @@ Building the next generation of applications with Full Stack Development, Agenti
 
 # 🌐 Socials
 <p align="left">
-  <a href="https://x.com/CodeQueen23?s=09" target="_blank">
+  <a href="https://x.com/sumbal_dev23" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
@@ -98,15 +98,12 @@ Building the next generation of applications with Full Stack Development, Agenti
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/code.dev23/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.tiktok.com/@codequeen23" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
 
-  <a href="https://www.fiverr.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.fiverr.com/sellers/sumbalnaz_23" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 </p>
