@@ -112,25 +112,35 @@ Building the next generation of applications with Full Stack Development, Agenti
 </p>
 
 
-# 🏆 GitHub Achievements
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codequeen-ai&theme=radical" alt="codequeen-ai" />
-  </a> 
-</p>
-
-
 
 # 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codequeen-ai&show_icons=true&locale=en&theme=dark&bg_color=0d0d1f&title_color=ff0099&text_color=00e6e6&icon_color=ffcc00&border_color=ffffff" alt="codequeen-ai" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumbal-naz23&show_icons=true&theme=radical&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumbal-naz23&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codequeen-ai&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumbal-naz23&theme=radical&hide_border=true" />
+</p>
 
-<p>
-  <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=codequeen-ai&theme=dark&background=0C0C15&ring=FF0080&fire=FF0080&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FF0080&sideLabels=FF0080&dates=00E5FF" 
-       alt="codequeen-ai" />
+
+
+
+
+<!-- <p align="center">
+ GitHub Achievements
+  <img src="https://github-profile-trophy.vercel.app/?username=sumbal-naz23&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+</p> -->
+
+
+
+
+
+
+# 💡 Coding Motivation
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
