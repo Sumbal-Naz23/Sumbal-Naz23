@@ -7,10 +7,9 @@
 ## 🚀 Full Stack Developer | 🤖 Agentic AI Engineer | 🧠 Intelligent Systems Engineer
 </div>
 
-Building the next generation of applications with Full Stack Development, Agentic AI and Intelligent Automation
+🤖 Building the next generation of applications with Full Stack Development, Agentic AI and Intelligent Automation ✨
 
 
-*🤖 Crafting Intelligent Applications for a Smarter Future ✨*
 
 ## 🛠️ Tech Stack
 
