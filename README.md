@@ -98,11 +98,6 @@ Building the next generation of applications with Full Stack Development, Agenti
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/code.dev23/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-
   <a href="https://www.fiverr.com/sellers/sumbalnaz_23" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
@@ -112,13 +107,13 @@ Building the next generation of applications with Full Stack Development, Agenti
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumbal-naz23&show_icons=true&theme=radical&hide_border=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumbal-naz23&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=sumbal-naz23&theme=radical&hide_border=true" />
 </p>
 
@@ -138,6 +133,6 @@ Building the next generation of applications with Full Stack Development, Agenti
 
 ### ⚡ Coding Motivation
 
-<p align="center">
+<p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
