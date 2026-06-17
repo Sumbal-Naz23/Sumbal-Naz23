@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-
-## 🚀 Full Stack Developer | 🤖 Agentic AI Engineer | 🧠 Intelligent Systems Engineer
+🚀 Full-Stack Developer | 🤖 Agentic AI Developer | 🧠 AI Solutions Architect
 </div>
 
 🤖 Building the next generation of applications with Full Stack Development, Agentic AI and Intelligent Automation ✨
