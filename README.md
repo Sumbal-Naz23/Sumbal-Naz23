@@ -136,7 +136,7 @@ Building the next generation of applications with Full Stack Development, Agenti
 
 
 
-# 💡 Coding Motivation
+### ⚡ Coding Motivation
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
